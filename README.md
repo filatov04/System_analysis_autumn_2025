@@ -3,3 +3,5 @@
 📁 [task0](./Tasks_System_analysis/task0)
 
 📁 [task1](./Tasks_System_analysis/task1)
+
+📁 [task2](./Tasks_System_analysis/task2)
