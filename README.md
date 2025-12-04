@@ -5,3 +5,5 @@
 📁 [task1](./Tasks_System_analysis/task1)
 
 📁 [task2](./Tasks_System_analysis/task2)
+
+📁 [task3](./Tasks_System_analysis/task3)
